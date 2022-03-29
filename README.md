@@ -12,7 +12,7 @@ In the future I would like to add more functionality to the background than just
 ## License
 MIT License
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2022 Julius DeAngelis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
